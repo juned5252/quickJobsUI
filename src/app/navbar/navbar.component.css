@@ -10,8 +10,10 @@
 
 #bs-example-navbar-collapse-1{
 	font-weight: bold;
+  box-shadow: 0 15px 25px rgba(0,0,0,.6);
 }
 
 li:hover{
 	background-color: #f5c77b;
+  transition: 1s;
 }
