@@ -1,0 +1,17 @@
+#brandlogo{
+	padding-right: 3px;
+}
+
+#brand{
+	font-weight: bolder;
+	color: #f59300;
+    text-shadow: 2px 2px 5px grey;
+}
+
+#bs-example-navbar-collapse-1{
+	font-weight: bold;
+}
+
+li:hover{
+	background-color: #f5c77b;
+}
