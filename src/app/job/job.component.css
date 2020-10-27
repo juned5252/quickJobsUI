@@ -1,0 +1,100 @@
+body{
+font-family: "Nunito", sans-serif;
+background-color: whitesmoke;
+}
+h1{
+    font-weight: 70;
+    font-size: 1rem;
+}
+.imgdiv{
+    overflow:hidden;
+    padding-top: 15px;
+    
+}
+
+.img-fluid{
+  padding-top: 10%;
+  height: 80%;
+}
+
+.right-colunm{
+  padding-top: 50px;
+  word-wrap:break-word;
+  border-radius: 10px;
+  height: 100%;
+}
+
+#star{
+  color: rgb(255, 208, 0);
+}
+
+.product-description {
+  border-top: 1px solid #E1E8EE;
+    border-bottom: 1px solid #E1E8EE;
+    margin-bottom: 20px;
+  }
+  .product-description span {
+    font-size: 12px;
+    color: #358ED7;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    text-decoration: none;
+  }
+  .product-description h1 {
+    font-weight: 300;
+    font-size: 40px;
+    color: #43484D;
+    letter-spacing: -2px;
+  }
+  .product-description p {
+    padding-top: 20px;
+    font-size: 16px;
+  font-weight: 300;
+  color: #86939E;
+  line-height: 24px;
+  }
+
+  .category {
+    border-radius: 10%;
+    height: 25px;
+    width: 50px;
+    background-color: rgb(148, 54, 148);
+    color: white;
+    text-align: center;
+  }
+  h5{
+    padding-top: 5px;
+  }
+
+  .product-price span{
+    font-size: 25px;
+    color: limegreen;
+  }
+
+  .btn{
+    margin-bottom: 12px;
+    margin-left: 20px;
+    padding-right: 10px;
+  }
+
+
+  .accountinfo img{
+    padding-top: 10px;
+    margin-left: 37%;
+    height: 19.5%;
+    width: 20%;
+  }
+
+  .accountinfo h3, p{
+    margin-left: -40px;
+   font-weight: bolder;
+   text-align: center;
+  }
+
+  .accountinfo span{
+   font-weight: bolder;
+  }
+
+  .productdiv{
+    font-family: 'Roboto', sans-serif;
+  }

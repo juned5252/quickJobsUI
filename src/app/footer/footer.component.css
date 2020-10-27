@@ -1,5 +1,12 @@
 .copyrights{
-	text-align: center;
 	font-size: 14px;
   font-weight: bolder;
+}
+
+footer{
+	position: fixed; bottom: 0px;
+	text-align: center;
+	height: 25px;
+	background-color: whitesmoke;
+	width: 100%;
 }
